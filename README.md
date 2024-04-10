@@ -17,8 +17,8 @@ segnalata.
 
 ![image](https://github.com/fdefoe/Cofextractor/assets/166450568/f21ce68d-39cb-4042-9402-511ae2e8f995)
 
-Un ulteriore valore aggiunto di PhishMe sta nel fatto di aggiungere alle suddette instazioni delle statistiche aggregate di
-segnalazione, oltre ad un efficace censimento di link ed allegati:
+Un ulteriore valore aggiunto di PhishMe sta nell'inclusione di statistiche aggregate per report,
+oltre ad un efficace censimento di link ed allegati:
 
 ![image](https://github.com/fdefoe/Cofextractor/assets/166450568/61031b14-4c8f-4846-931e-14f22c531c41)
 ![image](https://github.com/fdefoe/Cofextractor/assets/166450568/a6f23cf5-beb9-46be-b175-efff41da50de)
