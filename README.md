@@ -7,11 +7,12 @@ Al seguente link, scelto casualmente dal web, è riportata una buona panoramica 
 ad esempio sul client Outlook attraverso il famoso Fish-button:
 https://www.oa.pa.gov/Documents/Cofense-Report-Phishing-User-Guide.pdf
 
+
 **Funzionamento PhishMe**
 
 La singola email segnalata dall'utente viene compressa in un file zip dal prodotto PhishMe ed inviata in allegato ad un
-indirizzo di posta prescelto: per limitare le interazioni con l'originale l'archivio sarà ovviamente protetto da password
-configurata dagli amministratori, ed al fine di facilitare le analsi, il testo della mail conterrà copia degli headers di quella
+indirizzo di posta prescelto: per limitare le interazioni con l'originale l'archivio sarà protetto da password
+configurata dagli amministratori, ed al fine di facilitare le analisi, il body della mail conterrà copia degli headers di quella
 segnalata.
 
 ![image](https://github.com/fdefoe/Cofextractor/assets/166450568/f21ce68d-39cb-4042-9402-511ae2e8f995)
