@@ -7,6 +7,7 @@ Al seguente link, scelto casualmente dal web, è riportata una buona panoramica 
 ad esempio sul client Outlook attraverso il famoso Fish-button:
 https://www.oa.pa.gov/Documents/Cofense-Report-Phishing-User-Guide.pdf
 
+-----
 
 **Funzionamento PhishMe**
 
@@ -27,6 +28,7 @@ oltre ad un efficace censimento di link ed allegati:
 Lo svantaggio si trova nel dover analizzare singolarmente ogni email segnalata tramite il prodotto, senza una console
 interattiva che consenta correlazioni e fornisca un quadro globale del trend del periodo.
 
+-----
 
 **Cofextractor**
 
@@ -48,6 +50,8 @@ Un esempio del mail report:
 
 Dipendenze:
 * Pywin32 (https://pypi.org/project/pywin32/)
+
+-----
 
 **Avvertenze**
 
